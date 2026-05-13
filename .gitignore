@@ -1,0 +1,25 @@
+# Compiled binaries
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+
+# Arduino build artifacts
+build/
+*.d
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Gemini
+.gemini/
