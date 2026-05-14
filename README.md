@@ -1,4 +1,5 @@
 # Anything You Want - Arduino Lyrical Display
+By rafael baron
 
 *A transcription of Reality Club's masterpiece, "Anything You Want", breathing life into a mechanical display.*
 
