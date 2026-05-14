@@ -4,7 +4,7 @@
 
 ##
 
-<video src="ARDUINO.mp4" width="400" controls></video>
+<video src="ARDUINO.mp4" controls></video>
 
  The Feature
 
